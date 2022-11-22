@@ -86,7 +86,7 @@ h1{
     top: 300px;
 }
 
-h2{
+.sections>div{
     width: 81px;
     height: 81px;
     background-color: blanchedalmond;
