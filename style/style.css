@@ -31,39 +31,20 @@ body{
 
 }
 
-
-
-a{
-    text-decoration: none;
-
-}
-
-ul{
-    list-style: none;
-}
-
-li{
-    display: inline-block;
-}
-
 .header{
     width: 100%;
     height: 36px;
     background-color: #45707f;
     margin-bottom: 33px;
-}
-
-.header .header--img{
-    width: 100%;
-    align-items: center;
-
-}
-
-.header--socialmedia{
-
     text-align: center;
-    justify-content: space-between;
 }
+
+h2{
+
+}
+
+
+
 
 h1{
     text-align: center;
@@ -81,22 +62,28 @@ h1{
     display:inline-block;
     text-align: center;
     align-items: center;
-    margin-left: 5%;
+
     position: absolute;
     top: 300px;
+    right: 360px;
 }
 
 .sections>div{
-    width: 93px;
-    height: 81px;
-    background-color: blanchedalmond;
+    
     margin: 33px auto;
-    border-radius: 50%;
+    
     display: flex;
     text-align: center;
     align-items: center;
     justify-content: center;
     font-size: small;
+    left: 120px;
+}
+
+.sections--resonancia--creacion{
+    border-radius: 21%;
+    background-color: aqua;
+    margin: 30px 30px;
 }
 
 .footer{
