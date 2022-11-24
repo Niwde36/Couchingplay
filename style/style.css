@@ -37,6 +37,7 @@ body{
     background-color: #45707f;
     margin-bottom: 33px;
     text-align: center;
+    font-size: medium;
 }
 
 
@@ -77,6 +78,12 @@ h1{
 }
 
 .sections--resonancia--creacion{
+    border-radius: 21%;
+    background-color: aqua;
+    margin: 30px 30px;
+}
+
+.sections--resonancia--isha{
     border-radius: 21%;
     background-color: aqua;
     margin: 30px 30px;
